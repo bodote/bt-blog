@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Über Bodo Teichmann:"
+title: "Über Bodo:"
 ---
 
 Bodo entwickelt Software seit 1980. Das erste SW-Projekt war ein Vokabel-Lernprogramm, welches  auf der von [Sebastian Leitner entwickelten Lern-Systematik mit Karteikarten](https://www.phase-6.de/presse/classic-wissenschaft/) beruhte. Es war für den Sinclair [ZX81](https://de.wikipedia.org/wiki/Sinclair_ZX81) mit 16kbyte Speichererweiterung in BASIC geschrieben. Als Speichermedium für Programm und Vokabeln diente damals ein herkömmlichen Kassettenrekorder. Einziger Anwender war Bodo selbst, damit konnte er sich erfolgreich auf die Abiturprüfung in Englisch vorbereiten. Ach so, wie ich das programmieren damals gelernt habe? RTFM halt, ich hab das ZX81 Handbuch gelesen, was sonst? "Programming by googling" sollte erst viele Jahre später in Mode kommen.
