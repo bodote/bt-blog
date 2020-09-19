@@ -9,7 +9,7 @@ tags:
 ---
 
 
-Dies ist **KEINE** Linkliste zu TDD-Bücher mit denen ich bei Amazon noch nebenher Affiliate-Provision kassieren möchte!
+Dies ist **KEINE** Linkliste zu TDD-Bücher, mit denen ich bei Amazon noch nebenher Affiliate-Provision kassieren möchte!
 
 Ich bin ja ein enthusuastischer Beführworter von Test Driven Design (TDD), insbesondere von dem "test first" Ansatz. Daher hat es mich einfach interessiert, was denn andere Autoren und auch (aber nicht nur) die Wissenschaftliche Literatur zu dem Thema hergibt. Also habe ich gegoogelt, die Fundstellen studiert und die für jeweils wichtigsten Ergebnisse der jeweiligen Studio hier zusammengetragen. Angeregt wurde ich dazu übrigens, als ich das Buch [Langlebige Softwarearchitekturen](https://langlebige-softwarearchitekturen.de) von Carola Lilienthal las. Sie hat nämlich an einige Stellen auf auf systematische Studien verwiesen, die Ihre jeweilige Aussagen im Buch belegen sollen. Übrigens schreibt sie auch sehr positiv über TDD in dem Buch, wie man hier gleich in der ersten Fundstelle sieht.
 

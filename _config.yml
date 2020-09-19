@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Entwickelt Software seit 1980"
   links:
-    - label: "Website"
+    - label: "Website von BAS"
       icon: "fas fa-fw fa-link"
       url: "https://brandad-systems.de"
     - label: "Twitter"
