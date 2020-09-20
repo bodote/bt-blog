@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   'Gedanken und Ideen zu Softwareentwicklung'
 twitter_username: BodoTe
 github_username: bodote
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: "default" # "default" , "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Bodo Teichmann"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Entwickelt Software seit 1980"
+  bio    : "'Talk is cheap. Show me the code.' ― Linus Torvalds"
   links:
     - label: "Website von BAS"
       icon: "fas fa-fw fa-link"
